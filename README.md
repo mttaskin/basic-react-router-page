@@ -1,20 +1,19 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# R-CC-04 : Web Site with Router
+
+# project : Web Site with React Router
 
 ## Description
 
-Project aims to create a Clarusway Web Page with Router.
+Project aims to create a Web Page with Router.
 
 ## Problem Statement
 
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+- We are adding a new project to our portfolios. So we have started to work on the project.
 
 ## Project Skeleton
 
 ```
-04 - Web Site with Router (folder)
+- Web Site with Router (folder)
 |
 |----readme.md         # Given to the students (Definition of the project)
 SOLUTION
@@ -50,7 +49,7 @@ SOLUTION
 
 ## Objective
 
-Build a Clarusway Web Page using ReactJS, react-router and useHistory.
+Build a Web Page using ReactJS, react-router and useNavigate.
 
 ### At the end of the project, following topics are to be covered;
 
@@ -62,7 +61,7 @@ Build a Clarusway Web Page using ReactJS, react-router and useHistory.
 
 - ReactJS
 
-### At the end of the project, students will be able to;
+### At the end of the project, we will be able to;
 
 - Improve coding skills within HTML & CSS & JS & ReactJS.
 
@@ -70,19 +69,11 @@ Build a Clarusway Web Page using ReactJS, react-router and useHistory.
 
 ## Steps to Solution
 
-- Step 1: Create React App using `npx create-react-app clarusway-web-page-with-router`.
+- Step 1: Create React App using `npx create-react-app web-page-with-router`.
 
-- Step 2: Build Clarusway Web Page using ReactJS, react-router and useHistory.
+- Step 2: Build Web Page using ReactJS, react-router and useNavigate.
 
-- Step 3: Push your application into your own public repo on Github.
+- Step 3: Push to application into own public repo on Github.
 
-- Step 4: Add project gif to your project and README.md file.
-
-## Notes
-
-- Here is a deployed example [app](https://react-webpage-omega.vercel.app/). You can check it.
-- You can add additional functionalities and design to your app.
-
-[images folder](./img/)
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**

@@ -7,7 +7,7 @@ function Footer() {
       <div>
         <div className="footer">
           <p>
-          Clarusway Web Design, Copyright {new Date().getFullYear()}
+          MT-CODER Web Design, Copyright {new Date().getFullYear()}
           </p>
           <Link to="https://clarusway.com" target="_blank">
           <img src={logo} alt="logo" />
