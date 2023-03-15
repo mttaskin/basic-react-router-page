@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/basic-react-router-page/static/css/main.451a9cfd.css",
+    "main.js": "/basic-react-router-page/static/js/main.093f08e3.js",
+    "static/media/showcase.jpg": "/basic-react-router-page/static/media/showcase.1787af9cb8739b0cc98f.jpg",
+    "static/media/logo_css.png": "/basic-react-router-page/static/media/logo_css.fda2b7505db8ce5ff3ab.png",
+    "static/media/clarusway_logo.png": "/basic-react-router-page/static/media/clarusway_logo.8302021de9fe139838e9.png",
+    "static/media/logo_html.png": "/basic-react-router-page/static/media/logo_html.8076298e3862c5885c05.png",
+    "index.html": "/basic-react-router-page/index.html",
+    "main.451a9cfd.css.map": "/basic-react-router-page/static/css/main.451a9cfd.css.map",
+    "main.093f08e3.js.map": "/basic-react-router-page/static/js/main.093f08e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.451a9cfd.css",
+    "static/js/main.093f08e3.js"
+  ]
+}
